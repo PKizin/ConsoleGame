@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleGame.Archer">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAgAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Archer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleGame.Game" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleGame.Mage">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAACAAAAAAAQAABAAAAAABAAQAAAAAAA=</HashCode>
+      <FileName>Mage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleGame.Program">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleGame.Unit">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAQAAEBAABAAAAAAAAQABAAAAAAA=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleGame.Warrior">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAACAAAAAACAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Warrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ConsoleGame.IGame">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>IGame.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ConsoleGame.ArcherSkills">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAgAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Archer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleGame.MageSkills">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAEABAQAAAAAAAAAAA=</HashCode>
+      <FileName>Mage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleGame.TypeOfUnit">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleGame.WarriorSkills">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAEAAAAI=</HashCode>
+      <FileName>Warrior.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

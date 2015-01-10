@@ -1,0 +1,12 @@
+c:\users\1\documents\visual studio 2012\Projects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+c:\users\1\documents\visual studio 2012\Projects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+c:\users\1\documents\visual studio 2012\Projects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+c:\users\1\documents\visual studio 2012\Projects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\1\Desktop\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\1\Desktop\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\1\Desktop\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\1\Desktop\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\1\Desktop\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\offers\27.09.2014, C#\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\1\Desktop\offers\27.09.2014, C#\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
